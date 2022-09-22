@@ -1,0 +1,24 @@
+/*Navbar*/
+.main-wrapper{
+    position: relative;
+}
+.ftco-navbar-light {
+    font-family: "Poppins", sans-serif;
+    background: none;
+    z-index: 2;
+    padding: 5px 10px;
+    border-radius: 5px;
+    position: absolute;
+    top: 0%;
+
+}
+  
+.ftco-navbar-light .navbar-brand {
+    color: #33211D;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
+    color: #33211D;
+}
